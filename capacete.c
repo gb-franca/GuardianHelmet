@@ -19,8 +19,8 @@
 #define BUZZER_PIN 21 // Pino do buzzer
 #define LED_PIN 13    // Pino do LED
 #define BUZZER_FREQUENCY 1000 // Frequência do buzzer em Hz
-#define WIFI_SSID "brisa-CiceroAP"  // Substitua pelo nome da sua rede Wi-Fi
-#define WIFI_PASS "naoseila010723" // Substitua pela senha da sua rede Wi-Fi
+#define WIFI_SSID "b"  // Substitua pelo nome da sua rede Wi-Fi
+#define WIFI_PASS "n" // Substitua pela senha da sua rede Wi-Fi
 
 // Definições para ThingSpeak
 #define THINGSPEAK_API_KEY "SOEFUER5JT1L2N0J"
